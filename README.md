@@ -2,9 +2,7 @@
 
 ## 💻 Requisitos
 
-No projeto foi utilizado o spring boot e a plataforma intelij idea. Você pode criar um projeto spring no link abaixo:
-
-**[Spring initializr](https://start.spring.io/)**
+No projeto foi utilizado o spring boot e a plataforma intelij idea. Você pode utilizar qualquer plataforma de desenvolvimento, exemplo: eclipse e o Netbeans.
 
 ## 🚀 Instalando
 
@@ -21,7 +19,7 @@ Para instalar as dependências, realize o reload com o Maven, se você preferir 
 mvn clean install
 ```
 
-## 🫂 Link do desafio na github
+## 🫂 Link do desafio no github
 
 **[Desafio Back-end PicPay](https://github.dev/PicPay/picpay-desafio-backend)**
 
